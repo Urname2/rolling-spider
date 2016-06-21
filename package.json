@@ -1,0 +1,25 @@
+{
+  "name": "drone",
+  "version": "1.0.0",
+  "description": "Program that makes roller-spider fun",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parrot",
+    "rolling",
+    "spider",
+    "cylon.js",
+    "keypress.js"
+  ],
+  "author": "Jørgen Brække",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "cylon": "^1.3.0",
+    "cylon-rolling-spider": "^1.2.2",
+    "keypress": "^0.2.1",
+    "noble": "^1.6.0"
+  }
+}
